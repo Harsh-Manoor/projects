@@ -11,3 +11,6 @@ display()
 if(a=10){
     console.log("a is 10")
 }
+else{
+  console.log("a not equals 10")
+}
